@@ -13,5 +13,7 @@ members = [
     "hello-world",
     "lesson02_variables_types",
     "lesson03_flow_control",
-    "lesson04_enums"
+    "lesson04_enums",
+    "lesson05_compound_and_collections",
+    "lesson06_scope_ownership"
 ]
