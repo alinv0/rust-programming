@@ -17,4 +17,5 @@ members = [
     "lesson05_compound_and_collections",
     "lesson06_scope_ownership",
     "lesson07_borrowing",
+    "lesson08_functions"
 ]
