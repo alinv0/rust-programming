@@ -20,4 +20,6 @@ members = [
     "lesson08_functions",
     "lesson09_nested_functions_closures",
     "lesson10_structs_getting_started",
-    "lesson11_structs_functionality"]
+    "lesson11_structs_functionality",
+    "lesson12_traits"
+]
