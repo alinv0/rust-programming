@@ -18,5 +18,6 @@ members = [
     "lesson06_scope_ownership",
     "lesson07_borrowing",
     "lesson08_functions",
-    "lesson09_nested_functions_closures"
-, "lesson10_structs_getting_started"]
+    "lesson09_nested_functions_closures",
+    "lesson10_structs_getting_started",
+    "lesson11_structs_functionality"]
