@@ -22,4 +22,4 @@ members = [
     "lesson10_structs_getting_started",
     "lesson11_structs_functionality",
     "lesson12_traits",
-    "lesson13_generics", "lesson14_multithreading_concurrency"]
+    "lesson13_generics", "lesson14_multithreading_concurrency", "lesson15_additional_rust_techniques"]
